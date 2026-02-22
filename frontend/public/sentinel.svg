@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#818cf8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6c5ce7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a5b4fc;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#6c5ce7;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <!-- Shield body -->
+  <path d="M32 4L8 16v16c0 14.4 10.24 27.84 24 32 13.76-4.16 24-17.6 24-32V16L32 4z" fill="url(#shieldGrad)" stroke="#a5b4fc" stroke-width="1.5"/>
+  <!-- Inner glow -->
+  <path d="M32 10L14 19v12c0 11.52 7.68 22.08 18 25.2 10.32-3.12 18-13.68 18-25.2V19L32 10z" fill="url(#glowGrad)" opacity="0.3"/>
+  <!-- Eye / scan circle -->
+  <circle cx="32" cy="30" r="10" stroke="#e0e7ff" stroke-width="2" fill="none" opacity="0.9"/>
+  <circle cx="32" cy="30" r="4" fill="#e0e7ff" opacity="0.9"/>
+  <!-- Scan lines -->
+  <line x1="32" y1="16" x2="32" y2="20" stroke="#c7d2fe" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="32" y1="40" x2="32" y2="44" stroke="#c7d2fe" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="18" y1="30" x2="22" y2="30" stroke="#c7d2fe" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="42" y1="30" x2="46" y2="30" stroke="#c7d2fe" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+</svg>

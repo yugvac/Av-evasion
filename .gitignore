@@ -1,0 +1,33 @@
+# ──── Secrets ────
+.env
+
+# ──── Python ────
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# ──── Database ────
+data/sentinellab.db
+
+# ──── Generated Data ────
+data/reports/*.pdf
+data/samples/
+data/logs/
+
+# ──── Frontend ────
+frontend/node_modules/
+frontend/dist/
+
+# ──── Logs ────
+*.log
+
+# ──── OS / IDE ────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
