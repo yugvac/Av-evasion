@@ -1,3 +1,6 @@
+
+<img width="1919" height="842" alt="image" src="https://github.com/user-attachments/assets/2f2c8ae5-1195-44ed-84db-1a07386bd498" />
+
 # 🛡️ SentinelLab — AV Evasion Research Platform
 
 A **private, VirusTotal-style malware analysis platform** for cybersecurity researchers. Upload any file, scan it against **70+ real AV engines**, and get custom **deep static analysis** — all from your own machine.
