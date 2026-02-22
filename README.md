@@ -29,7 +29,7 @@ A **private, VirusTotal-style malware analysis platform** for cybersecurity rese
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- VirusTotal API Key ([get one free](https://www.virustotal.com/gui/my-apikey))
+- VirusTotal API Key ([get one free](https://www.virustotal.com/gui/my-apikey))(paste that VP api key inside the **.env.example** file and change the file name to **.env**)
 
 ### Backend Setup
 ```bash
