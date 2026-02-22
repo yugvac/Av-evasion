@@ -16,6 +16,7 @@ A **private, VirusTotal-style malware analysis platform** for cybersecurity rese
 - **PDF Reports** — Professional research reports via ReportLab
 - **Experiment System** — Generate test payloads and study detection patterns
    <img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/cae24757-258b-4646-93c9-6757dc643e77" />
+<img width="1671" height="802" alt="image" src="https://github.com/user-attachments/assets/a3e780db-bc1d-4fe1-bbc1-09058e96cc66" />
 
 
 ## 🏗️ Tech Stack
